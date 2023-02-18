@@ -1,4 +1,5 @@
 # HOI4D Semantic segmentation challenge
+Please check out the HOI4D Challenge on the latest project website www.hoi4d.top !
 ## Overview
 This code base provides a benchmark for the HOI4D challenge Semantic segmentation task, and we provide the training code for two models, P4Transformer and PPTr.
 ## Challege
